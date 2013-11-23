@@ -6,7 +6,7 @@ use MooX::Types::MooseLike::Base;
 use Exporter 5.57 'import';
 our @EXPORT_OK = ();
 
-our $VERSION = '1.01';
+our $VERSION = '1.02';
 
 my $type_definitions = [
   {
@@ -98,7 +98,7 @@ MooX::Types::MooseLike::Numeric - Moo types for numbers
 
 =head1 DESCRIPTION
 
-adpated from MooseX::Types::Common::Numeric
+adapted from MooseX::Types::Common::Numeric
 
 =head1 TYPES (subroutines)
 
